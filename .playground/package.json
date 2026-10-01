@@ -11,7 +11,7 @@
   "devDependencies": {
     "@iconify-json/ph": "^1.1.6",
     "@nuxt/ui": "^2.10.0",
-    "@nuxt/ui-pro": "^0.4.1",
+    "@nuxt/ui-pro": "^3.0.0",
     "nuxt-mongoose": "^1.0.3"
   }
 }
