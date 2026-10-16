@@ -24,7 +24,7 @@
     "@types/bcryptjs": "^2.4.5",
     "@types/jsonwebtoken": "^9.0.4",
     "eslint": "^8.52.0",
-    "nuxt": "^3.8.0",
+    "nuxt": "^4.0.0",
     "vue": "^3.3.7",
     "vue-router": "^4.2.5"
   },
