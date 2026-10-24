@@ -21,7 +21,7 @@
   "devDependencies": {
     "@antfu/eslint-config": "^1.1.0",
     "@nuxt/devtools": "latest",
-    "@types/bcryptjs": "^2.4.5",
+    "@types/bcryptjs": "^3.0.0",
     "@types/jsonwebtoken": "^9.0.4",
     "eslint": "^8.52.0",
     "nuxt": "^3.8.0",
@@ -29,7 +29,7 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
-    "bcryptjs": "^2.4.3",
+    "bcryptjs": "^3.0.0",
     "h3-zod": "^0.5.2",
     "jose": "^5.0.1",
     "jsonwebtoken": "^9.0.2",
